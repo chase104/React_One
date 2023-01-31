@@ -1,4 +1,6 @@
 .player-container{
     background-color: lightblue;
+    width: 50%;
+    display: inline-block;
 };
 
