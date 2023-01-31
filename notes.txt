@@ -1,0 +1,8 @@
+
+
+
+
+React is a javascript library (SPA Framework)
+
+
+DEV script: start React DEV Server on 3000, and server.js on 5000
